@@ -27,8 +27,7 @@ This repository contains my solution to the **Blog Preview Card** challenge prov
 
 ### Live Demo
 
-*(Insert your deployment link here, e.g., GitHub Pages, Netlify, Vercel, etc.)*  
-[Live Demo](https://your-deployment-link.com)
+*([Live Demo](https://hiroanap.github.io/blog-card/))* 
 
 ---
 
