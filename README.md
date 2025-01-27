@@ -71,12 +71,23 @@ To run this project locally, follow these steps:
     After that, open index.html in your browser or run a local server to see the card in action.
 
 4. **Development Process**
-    Design Analysis: I reviewed the Figma design and the style-guide.md from Frontend Mentor to identify sizes, colors, and spacing.
-    HTML Structure: I set up a basic semantic structure (sections, divs, etc.) to build the card layout.
-    Tailwind Configuration: I configured Tailwind via npm and my tailwind.config.js file.
-    Base Styles: I first applied utility classes for typography, colors, and spacing.
-    Interactions & Responsiveness: I used Tailwind’s hover: and focus: prefixes for interactive elements and relied on responsive breakpoints ```(sm:, md:)``` for layout adjustments.
-    Customization: I learned how to add custom styles (colors, fonts) in Tailwind’s version 4.
+    Design Analysis: 
+    I reviewed the Figma design and the style-guide.md from Frontend Mentor to identify sizes, colors, and spacing.
+
+    HTML Structure: 
+    I set up a basic semantic structure (sections, divs, etc.) to build the card layout.
+    
+    Tailwind Configuration: 
+    I configured Tailwind via npm and my tailwind.config.js file.
+    
+    Base Styles: 
+    I first applied utility classes for typography, colors, and spacing.
+    
+    Interactions & Responsiveness: I used Tailwind’s ```hover:``` and ```focus:``` prefixes for interactive elements and relied on responsive breakpoints ```(sm:, md:)``` for layout adjustments.
+    
+    ***Customization***: 
+    I learned how to add custom styles (colors, fonts) in Tailwind’s version 4.
+
 5. **Challenges**
     ***Customizing Tailwind CSS***:
     I initially struggled with adding my own colors and fonts in Tailwind CSS v4.
